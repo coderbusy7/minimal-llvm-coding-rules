@@ -1,0 +1,27 @@
+---
+BasedOnStyle: LLVM
+AlignConsecutiveAssignments: "false"
+AlignConsecutiveMacros: AcrossEmptyLines
+AllowAllArgumentsOnNextLine: "true"
+AllowAllConstructorInitializersOnNextLine: "false"
+AllowShortCaseLabelsOnASingleLine: "false"
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+BinPackParameters: "true"
+BraceWrapping:
+  AfterClass: true
+  AfterControlStatement: Always
+BreakAfterJavaFieldAnnotations: "true"
+BreakBeforeBraces: Mozilla
+BreakConstructorInitializers: AfterColon
+BreakInheritanceList: AfterColon
+ColumnLimit: "120"
+FixNamespaceComments: "true"
+IndentPPDirectives: BeforeHash
+LambdaBodyIndentation: OuterScope
+NamespaceIndentation: Inner
+PackConstructorInitializers: Never
+SeparateDefinitionBlocks: Always
+SpaceInEmptyBlock: true
+AlwaysBreakTemplateDeclarations: Yes
+AllowShortLambdasOnASingleLine: Inline
