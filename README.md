@@ -2,6 +2,7 @@
 # LLVM Coding Rules
 
 Welcome to the LLVM project! This README outlines the minimal coding rules to follow when contributing to LLVM.
+Based on LLVM Coding Standards https://llvm.org/docs/CodingStandards.html
 
 ## Coding Rules
 
